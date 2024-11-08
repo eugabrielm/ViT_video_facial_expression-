@@ -1,0 +1,6 @@
+torch
+opencv-python
+transformers
+Pillow
+argparse
+os
